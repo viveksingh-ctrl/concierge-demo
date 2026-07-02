@@ -1,0 +1,1042 @@
+[
+  {
+    "run": 1,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f"
+    ],
+    "productNames": [
+      "Skin Sofa"
+    ],
+    "metadataCount": 3,
+    "textDeltas": 94,
+    "uiMessage": "Ecco un divano in pelle disponibile in catalogo.",
+    "responseMs": 8436,
+    "error": null
+  },
+  {
+    "run": 2,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f086363c174df950f1c521c046a64"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Emile Sofa"
+    ],
+    "metadataCount": 3,
+    "textDeltas": 128,
+    "uiMessage": "Ecco alcuni divani disponibili anche in pelle.",
+    "responseMs": 13661,
+    "error": null
+  },
+  {
+    "run": 3,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f086363c174df950f1c521c046a64",
+      "cs019f085e5b1d77008ca0801a36d42ed6",
+      "cs019f0863f27d74969d0fff98e5b87a58"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Emile Sofa",
+      "Augusto Sofa",
+      "Albert sofa"
+    ],
+    "metadataCount": 5,
+    "textDeltas": 208,
+    "uiMessage": "Ecco una selezione di divani disponibili anche in pelle.",
+    "responseMs": 8576,
+    "error": null
+  },
+  {
+    "run": 4,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f0863f27d74969d0fff98e5b87a58"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Albert sofa"
+    ],
+    "metadataCount": 4,
+    "textDeltas": 133,
+    "uiMessage": "Ecco dei divani disponibili con rivestimenti in pelle.",
+    "responseMs": 8415,
+    "error": null
+  },
+  {
+    "run": 5,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f086363c174df950f1c521c046a64",
+      "cs019f0863f27d74969d0fff98e5b87a58",
+      "cs019f085e5b1d77008ca0801a36d42ed6",
+      "cs019f0863c05576ddb90926125218c2c2"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Emile Sofa",
+      "Albert sofa",
+      "Augusto Sofa",
+      "Augusto sofa"
+    ],
+    "metadataCount": 5,
+    "textDeltas": 244,
+    "uiMessage": "Ecco una selezione di divani disponibili anche in pelle.",
+    "responseMs": 12148,
+    "error": null
+  },
+  {
+    "run": 6,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f0863f27d74969d0fff98e5b87a58",
+      "cs019f085e5b1d77008ca0801a36d42ed6"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Albert sofa",
+      "Augusto Sofa"
+    ],
+    "metadataCount": 4,
+    "textDeltas": 172,
+    "uiMessage": "Ecco alcuni divani disponibili con rivestimento in pelle.",
+    "responseMs": 8345,
+    "error": null
+  },
+  {
+    "run": 7,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f0863f27d74969d0fff98e5b87a58",
+      "cs019f085e5b1d77008ca0801a36d42ed6"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Albert sofa",
+      "Augusto Sofa"
+    ],
+    "metadataCount": 4,
+    "textDeltas": 169,
+    "uiMessage": "Ecco dei divani disponibili anche in pelle.",
+    "responseMs": 8982,
+    "error": null
+  },
+  {
+    "run": 8,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f086363c174df950f1c521c046a64",
+      "cs019f085e5b1d77008ca0801a36d42ed6"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Emile Sofa",
+      "Augusto Sofa"
+    ],
+    "metadataCount": 4,
+    "textDeltas": 189,
+    "uiMessage": "Ecco alcuni divani disponibili anche in pelle.",
+    "responseMs": 14795,
+    "error": null
+  },
+  {
+    "run": 9,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f085e5b1d77008ca0801a36d42ed6",
+      "cs019f0863f27d74969d0fff98e5b87a58"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Augusto Sofa",
+      "Albert sofa"
+    ],
+    "metadataCount": 4,
+    "textDeltas": 169,
+    "uiMessage": "Ecco alcuni divani disponibili anche in pelle.",
+    "responseMs": 10232,
+    "error": null
+  },
+  {
+    "run": 10,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f086363c174df950f1c521c046a64",
+      "cs019f0863f27d74969d0fff98e5b87a58",
+      "cs019f085e5b1d77008ca0801a36d42ed6"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Emile Sofa",
+      "Albert sofa",
+      "Augusto Sofa"
+    ],
+    "metadataCount": 4,
+    "textDeltas": 214,
+    "uiMessage": "Ecco una selezione di divani disponibili anche in pelle.",
+    "responseMs": 9502,
+    "error": null
+  },
+  {
+    "run": 11,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f086363c174df950f1c521c046a64",
+      "cs019f085e5b1d77008ca0801a36d42ed6",
+      "cs019f0863f27d74969d0fff98e5b87a58"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Emile Sofa",
+      "Augusto Sofa",
+      "Albert sofa"
+    ],
+    "metadataCount": 5,
+    "textDeltas": 226,
+    "uiMessage": "Ecco alcuni divani disponibili in pelle.",
+    "responseMs": 13511,
+    "error": null
+  },
+  {
+    "run": 12,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f086363c174df950f1c521c046a64",
+      "cs019f0863f27d74969d0fff98e5b87a58",
+      "cs019f085e5b1d77008ca0801a36d42ed6",
+      "cs019f0863d31a72218b58dac8c99ef57e"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Emile Sofa",
+      "Albert sofa",
+      "Augusto Sofa",
+      "Marteen Sofa"
+    ],
+    "metadataCount": 5,
+    "textDeltas": 243,
+    "uiMessage": "Ecco alcuni divani disponibili anche in pelle.",
+    "responseMs": 7654,
+    "error": null
+  },
+  {
+    "run": 13,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f086363c174df950f1c521c046a64",
+      "cs019f0863f27d74969d0fff98e5b87a58",
+      "cs019f085e5b1d77008ca0801a36d42ed6",
+      "cs019f0863d31a72218b58dac8c99ef57e"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Emile Sofa",
+      "Albert sofa",
+      "Augusto Sofa",
+      "Marteen Sofa"
+    ],
+    "metadataCount": 4,
+    "textDeltas": 242,
+    "uiMessage": "Ecco alcuni divani disponibili in pelle.",
+    "responseMs": 9661,
+    "error": null
+  },
+  {
+    "run": 14,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f086363c174df950f1c521c046a64",
+      "cs019f0863f27d74969d0fff98e5b87a58",
+      "cs019f085e5b1d77008ca0801a36d42ed6"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Emile Sofa",
+      "Albert sofa",
+      "Augusto Sofa"
+    ],
+    "metadataCount": 5,
+    "textDeltas": 208,
+    "uiMessage": "",
+    "responseMs": 9106,
+    "error": null
+  },
+  {
+    "run": 15,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f086363c174df950f1c521c046a64",
+      "cs019f0863f27d74969d0fff98e5b87a58",
+      "cs019f085e5b1d77008ca0801a36d42ed6"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Emile Sofa",
+      "Albert sofa",
+      "Augusto Sofa"
+    ],
+    "metadataCount": 5,
+    "textDeltas": 206,
+    "uiMessage": "Divani disponibili in pelle (Molteni&C).",
+    "responseMs": 26697,
+    "error": null
+  },
+  {
+    "run": 16,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f086363c174df950f1c521c046a64",
+      "cs019f085e5b1d77008ca0801a36d42ed6"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Emile Sofa",
+      "Augusto Sofa"
+    ],
+    "metadataCount": 4,
+    "textDeltas": 168,
+    "uiMessage": "Ecco una selezione di divani in pelle.",
+    "responseMs": 7345,
+    "error": null
+  },
+  {
+    "run": 17,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f086363c174df950f1c521c046a64",
+      "cs019f0863f27d74969d0fff98e5b87a58"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Emile Sofa",
+      "Albert sofa"
+    ],
+    "metadataCount": 4,
+    "textDeltas": 167,
+    "uiMessage": "Divani in pelle disponibili (selezione).",
+    "responseMs": 7785,
+    "error": null
+  },
+  {
+    "run": 18,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f086363c174df950f1c521c046a64",
+      "cs019f0863f27d74969d0fff98e5b87a58",
+      "cs019f085e5b1d77008ca0801a36d42ed6"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Emile Sofa",
+      "Albert sofa",
+      "Augusto Sofa"
+    ],
+    "metadataCount": 4,
+    "textDeltas": 206,
+    "uiMessage": "Ecco alcuni divani in pelle da visualizzare.",
+    "responseMs": 8411,
+    "error": null
+  },
+  {
+    "run": 19,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f086363c174df950f1c521c046a64",
+      "cs019f085dd58471b29602fee08c392a66"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Emile Sofa",
+      "LUCIO Indoor Sofa"
+    ],
+    "metadataCount": 4,
+    "textDeltas": 166,
+    "uiMessage": "Ecco alcuni divani in pelle da visualizzare.",
+    "responseMs": 7738,
+    "error": null
+  },
+  {
+    "run": 20,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f086363c174df950f1c521c046a64",
+      "cs019f085e5b1d77008ca0801a36d42ed6",
+      "cs019f0863f27d74969d0fff98e5b87a58"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Emile Sofa",
+      "Augusto Sofa",
+      "Albert sofa"
+    ],
+    "metadataCount": 5,
+    "textDeltas": 206,
+    "uiMessage": "Ecco una selezione di divani in pelle.",
+    "responseMs": 30484,
+    "error": null
+  },
+  {
+    "run": 21,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f085e5b1d77008ca0801a36d42ed6",
+      "cs019f0863f27d74969d0fff98e5b87a58"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Augusto Sofa",
+      "Albert sofa"
+    ],
+    "metadataCount": 4,
+    "textDeltas": 168,
+    "uiMessage": "Ecco alcuni divani in pelle disponibili.",
+    "responseMs": 8864,
+    "error": null
+  },
+  {
+    "run": 22,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f086363c174df950f1c521c046a64",
+      "cs019f085e5b1d77008ca0801a36d42ed6",
+      "cs019f0863e6f077c883c1fac86b232e9c"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Emile Sofa",
+      "Augusto Sofa",
+      "Surf sofa"
+    ],
+    "metadataCount": 5,
+    "textDeltas": 205,
+    "uiMessage": "Ecco altri divani disponibili anche in pelle.",
+    "responseMs": 8250,
+    "error": null
+  },
+  {
+    "run": 23,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f085e5b1d77008ca0801a36d42ed6",
+      "cs019f0863f27d74969d0fff98e5b87a58"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Augusto Sofa",
+      "Albert sofa"
+    ],
+    "metadataCount": 4,
+    "textDeltas": 167,
+    "uiMessage": "Ecco divani disponibili in pelle.",
+    "responseMs": 7461,
+    "error": null
+  },
+  {
+    "run": 24,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f0863c05576ddb90926125218c2c2"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Augusto Sofa"
+    ],
+    "metadataCount": 3,
+    "textDeltas": 128,
+    "uiMessage": "Ecco divani in pelle da visualizzare.",
+    "responseMs": 8174,
+    "error": null
+  },
+  {
+    "run": 25,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f086363c174df950f1c521c046a64",
+      "cs019f085e5b1d77008ca0801a36d42ed6",
+      "cs019f0863e6f077c883c1fac86b232e9c",
+      "cs019f0863f27d74969d0fff98e5b87a58"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Emile Sofa",
+      "Augusto Sofa",
+      "Surf sofa",
+      "Albert sofa"
+    ],
+    "metadataCount": 5,
+    "textDeltas": 246,
+    "uiMessage": "Ecco una selezione di divani disponibili anche in pelle.",
+    "responseMs": 13838,
+    "error": null
+  },
+  {
+    "run": 26,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f085dd58471b29602fee08c392a66",
+      "cs019f086363c174df950f1c521c046a64"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "LUCIO Indoor Sofa",
+      "Emile Sofa"
+    ],
+    "metadataCount": 4,
+    "textDeltas": 165,
+    "uiMessage": "Ecco alcuni divani disponibili anche in pelle.",
+    "responseMs": 8778,
+    "error": null
+  },
+  {
+    "run": 27,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f086363c174df950f1c521c046a64",
+      "cs019f0863f27d74969d0fff98e5b87a58",
+      "cs019f085e5b1d77008ca0801a36d42ed6"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Emile Sofa",
+      "Albert sofa",
+      "Augusto Sofa"
+    ],
+    "metadataCount": 5,
+    "textDeltas": 205,
+    "uiMessage": "Ecco alcuni divani disponibili anche in pelle.",
+    "responseMs": 9619,
+    "error": null
+  },
+  {
+    "run": 28,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f086363c174df950f1c521c046a64",
+      "cs019f0863f27d74969d0fff98e5b87a58",
+      "cs019f085e5b1d77008ca0801a36d42ed6"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Emile Sofa",
+      "Albert sofa",
+      "Augusto Sofa"
+    ],
+    "metadataCount": 4,
+    "textDeltas": 213,
+    "uiMessage": "Ecco alcuni divani in pelle (o disponibili in versione pelle) dal catalogo.",
+    "responseMs": 9393,
+    "error": null
+  },
+  {
+    "run": 29,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f086363c174df950f1c521c046a64",
+      "cs019f0863f27d74969d0fff98e5b87a58",
+      "cs019f085e5b1d77008ca0801a36d42ed6"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Emile Sofa",
+      "Albert sofa",
+      "Augusto Sofa"
+    ],
+    "metadataCount": 5,
+    "textDeltas": 205,
+    "uiMessage": "Selezione di divani disponibili in pelle.",
+    "responseMs": 8495,
+    "error": null
+  },
+  {
+    "run": 30,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f086363c174df950f1c521c046a64"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Emile Sofa"
+    ],
+    "metadataCount": 3,
+    "textDeltas": 134,
+    "uiMessage": "Ecco divani in pelle (o disponibili in pelle) dal catalogo.",
+    "responseMs": 15328,
+    "error": null
+  },
+  {
+    "run": 31,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f086363c174df950f1c521c046a64",
+      "cs019f0863e6f077c883c1fac86b232e9c",
+      "cs019f085e5b1d77008ca0801a36d42ed6",
+      "cs019f085dd58471b29602fee08c392a66"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Emile Sofa",
+      "Surf sofa",
+      "Augusto Sofa",
+      "LUCIO Indoor Sofa"
+    ],
+    "metadataCount": 5,
+    "textDeltas": 244,
+    "uiMessage": "Ecco alcuni divani disponibili in pelle dal catalogo.",
+    "responseMs": 9103,
+    "error": null
+  },
+  {
+    "run": 32,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f0863f27d74969d0fff98e5b87a58",
+      "cs019f086363c174df950f1c521c046a64"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Albert sofa",
+      "Emile Sofa"
+    ],
+    "metadataCount": 4,
+    "textDeltas": 167,
+    "uiMessage": "Ecco divani disponibili in pelle dal catalogo.",
+    "responseMs": 11081,
+    "error": null
+  },
+  {
+    "run": 33,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f086363c174df950f1c521c046a64",
+      "cs019f085fd49d710da7d9f69f578e6ced",
+      "cs019f085dd58471b29602fee08c392a66"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Emile Sofa",
+      "Lido",
+      "LUCIO Indoor Sofa"
+    ],
+    "metadataCount": 4,
+    "textDeltas": 204,
+    "uiMessage": "Ecco una selezione di divani disponibili in pelle.",
+    "responseMs": 10661,
+    "error": null
+  },
+  {
+    "run": 34,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f0863f27d74969d0fff98e5b87a58",
+      "cs019f086363c174df950f1c521c046a64"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Albert sofa",
+      "Emile Sofa"
+    ],
+    "metadataCount": 4,
+    "textDeltas": 165,
+    "uiMessage": "Ecco alcuni divani disponibili in pelle.",
+    "responseMs": 9137,
+    "error": null
+  },
+  {
+    "run": 35,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f086363c174df950f1c521c046a64",
+      "cs019f085e5b1d77008ca0801a36d42ed6",
+      "cs019f0863f27d74969d0fff98e5b87a58"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Emile Sofa",
+      "Augusto Sofa",
+      "Albert sofa"
+    ],
+    "metadataCount": 5,
+    "textDeltas": 204,
+    "uiMessage": "Ecco alcuni divani disponibili in pelle.",
+    "responseMs": 9751,
+    "error": null
+  },
+  {
+    "run": 36,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f086363c174df950f1c521c046a64",
+      "cs019f0863f27d74969d0fff98e5b87a58"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Emile Sofa",
+      "Albert sofa"
+    ],
+    "metadataCount": 4,
+    "textDeltas": 165,
+    "uiMessage": "Ecco alcuni divani disponibili in pelle.",
+    "responseMs": 7951,
+    "error": null
+  },
+  {
+    "run": 37,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f086363c174df950f1c521c046a64",
+      "cs019f0863f27d74969d0fff98e5b87a58",
+      "cs019f085e5b1d77008ca0801a36d42ed6"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Emile Sofa",
+      "Albert sofa",
+      "Augusto Sofa"
+    ],
+    "metadataCount": 5,
+    "textDeltas": 207,
+    "uiMessage": "Ecco una selezione di divani disponibili in pelle.",
+    "responseMs": 11111,
+    "error": null
+  },
+  {
+    "run": 38,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f0863f27d74969d0fff98e5b87a58",
+      "cs019f086363c174df950f1c521c046a64"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Albert sofa",
+      "Emile Sofa"
+    ],
+    "metadataCount": 4,
+    "textDeltas": 165,
+    "uiMessage": "Ecco alcuni divani disponibili in pelle.",
+    "responseMs": 21923,
+    "error": null
+  },
+  {
+    "run": 39,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f0863f27d74969d0fff98e5b87a58",
+      "cs019f085e5b1d77008ca0801a36d42ed6",
+      "cs019f086363c174df950f1c521c046a64"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Albert sofa",
+      "Augusto Sofa",
+      "Emile Sofa"
+    ],
+    "metadataCount": 5,
+    "textDeltas": 204,
+    "uiMessage": "Ecco alcuni divani disponibili in pelle.",
+    "responseMs": 8438,
+    "error": null
+  },
+  {
+    "run": 40,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f0863f27d74969d0fff98e5b87a58",
+      "cs019f086363c174df950f1c521c046a64"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Albert sofa",
+      "Emile Sofa"
+    ],
+    "metadataCount": 4,
+    "textDeltas": 165,
+    "uiMessage": "Ecco alcuni divani disponibili in pelle.",
+    "responseMs": 8544,
+    "error": null
+  },
+  {
+    "run": 41,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f085e5b1d77008ca0801a36d42ed6",
+      "cs019f086363c174df950f1c521c046a64"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Augusto Sofa",
+      "Emile Sofa"
+    ],
+    "metadataCount": 4,
+    "textDeltas": 198,
+    "uiMessage": "Ecco una selezione di divani disponibili con rivestimento in pelle.",
+    "responseMs": 12170,
+    "error": null
+  },
+  {
+    "run": 42,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f0863f27d74969d0fff98e5b87a58",
+      "cs019f086363c174df950f1c521c046a64"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Albert sofa",
+      "Emile Sofa"
+    ],
+    "metadataCount": 4,
+    "textDeltas": 191,
+    "uiMessage": "Ecco alcuni divani disponibili con rivestimento in pelle.",
+    "responseMs": 8754,
+    "error": null
+  },
+  {
+    "run": 43,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f0863f27d74969d0fff98e5b87a58",
+      "cs019f085e5b1d77008ca0801a36d42ed6"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Albert sofa",
+      "Augusto Sofa"
+    ],
+    "metadataCount": 4,
+    "textDeltas": 219,
+    "uiMessage": "Ecco una selezione di divani con opzioni di rivestimento in pelle.",
+    "responseMs": 10284,
+    "error": null
+  },
+  {
+    "run": 44,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f0863f27d74969d0fff98e5b87a58",
+      "cs019f086363c174df950f1c521c046a64",
+      "cs019f085e5b1d77008ca0801a36d42ed6"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Albert sofa",
+      "Emile Sofa",
+      "Augusto Sofa"
+    ],
+    "metadataCount": 5,
+    "textDeltas": 232,
+    "uiMessage": "Ecco alcuni divani con opzioni di rivestimento in pelle.",
+    "responseMs": 12161,
+    "error": null
+  },
+  {
+    "run": 45,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f086363c174df950f1c521c046a64",
+      "cs019f085e5b1d77008ca0801a36d42ed6"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Emile Sofa",
+      "Augusto Sofa"
+    ],
+    "metadataCount": 4,
+    "textDeltas": 194,
+    "uiMessage": "Ecco alcuni divani con opzioni di rivestimento in pelle.",
+    "responseMs": 12045,
+    "error": null
+  },
+  {
+    "run": 46,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f0863f27d74969d0fff98e5b87a58",
+      "cs019f086363c174df950f1c521c046a64"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Albert sofa",
+      "Emile Sofa"
+    ],
+    "metadataCount": 4,
+    "textDeltas": 193,
+    "uiMessage": "Ecco alcuni divani con opzioni di rivestimento in pelle.",
+    "responseMs": 10178,
+    "error": null
+  },
+  {
+    "run": 47,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f0863f27d74969d0fff98e5b87a58",
+      "cs019f086363c174df950f1c521c046a64"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Albert sofa",
+      "Emile Sofa"
+    ],
+    "metadataCount": 4,
+    "textDeltas": 197,
+    "uiMessage": "Ecco alcuni divani in pelle (o con opzioni in pelle) da visualizzare.",
+    "responseMs": 12038,
+    "error": null
+  },
+  {
+    "run": 48,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f0863f27d74969d0fff98e5b87a58",
+      "cs019f085e5b1d77008ca0801a36d42ed6"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Albert sofa",
+      "Augusto Sofa"
+    ],
+    "metadataCount": 4,
+    "textDeltas": 199,
+    "uiMessage": "Seleziona un divano per vedere le varianti in pelle (quando disponibili).",
+    "responseMs": 8263,
+    "error": null
+  },
+  {
+    "run": 49,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f086363c174df950f1c521c046a64",
+      "cs019f085e5b1d77008ca0801a36d42ed6"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Emile Sofa",
+      "Augusto Sofa"
+    ],
+    "metadataCount": 4,
+    "textDeltas": 199,
+    "uiMessage": "Ecco una selezione di divani con rivestimento in pelle o opzioni in pelle.",
+    "responseMs": 16043,
+    "error": null
+  },
+  {
+    "run": 50,
+    "status": "Success",
+    "threadId": "fbda2d57-9f97-41b6-8a31-11eb06000e2b",
+    "productUids": [
+      "cs019f08640a6e743ea1c186c99d32413f",
+      "cs019f0863f27d74969d0fff98e5b87a58",
+      "cs019f086363c174df950f1c521c046a64"
+    ],
+    "productNames": [
+      "Skin Sofa",
+      "Albert sofa",
+      "Emile Sofa"
+    ],
+    "metadataCount": 4,
+    "textDeltas": 193,
+    "uiMessage": "Ecco alcuni divani con opzioni in pelle disponibili nel catalogo.",
+    "responseMs": 9841,
+    "error": null
+  }
+]

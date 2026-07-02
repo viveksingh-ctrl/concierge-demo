@@ -1,0 +1,1002 @@
+[
+  {
+    "call_number": 1,
+    "thread_id": "1782963790835-920fae7d",
+    "request_time": "2026-07-02 09:13:10",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 7.667,
+    "status": "Success"
+  },
+  {
+    "call_number": 2,
+    "thread_id": "1782963799038-b52c2964",
+    "request_time": "2026-07-02 09:13:19",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 13.02,
+    "status": "Success"
+  },
+  {
+    "call_number": 3,
+    "thread_id": "1782963812565-8c179c94",
+    "request_time": "2026-07-02 09:13:32",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco alcuni divani (e contenuti correlati) in pelle presenti a catalogo.",
+    "response_time": 7.626,
+    "status": "Success"
+  },
+  {
+    "call_number": 4,
+    "thread_id": "1782963820698-05730a4f",
+    "request_time": "2026-07-02 09:13:40",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 7.718,
+    "status": "Success"
+  },
+  {
+    "call_number": 5,
+    "thread_id": "1782963828923-0803240a",
+    "request_time": "2026-07-02 09:13:48",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 10.157,
+    "status": "Success"
+  },
+  {
+    "call_number": 6,
+    "thread_id": "1782963839588-110e5524",
+    "request_time": "2026-07-02 09:13:59",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 7.74,
+    "status": "Success"
+  },
+  {
+    "call_number": 7,
+    "thread_id": "1782963847833-00038dbb",
+    "request_time": "2026-07-02 09:14:07",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco alcuni divani (e contenuti correlati) disponibili in catalogo; il principale \u00c3\u00a8 un divano in pelle.",
+    "response_time": 9.086,
+    "status": "Success"
+  },
+  {
+    "call_number": 8,
+    "thread_id": "1782963857432-adf9b44c",
+    "request_time": "2026-07-02 09:14:17",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle presente a catalogo.",
+    "response_time": 7.27,
+    "status": "Success"
+  },
+  {
+    "call_number": 9,
+    "thread_id": "1782963865207-86b10359",
+    "request_time": "2026-07-02 09:14:25",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile a catalogo.",
+    "response_time": 7.837,
+    "status": "Success"
+  },
+  {
+    "call_number": 10,
+    "thread_id": "1782963873553-cf20466f",
+    "request_time": "2026-07-02 09:14:33",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco una selezione di prodotti in pelle dal catalogo.",
+    "response_time": 11.15,
+    "status": "Success"
+  },
+  {
+    "call_number": 11,
+    "thread_id": "1782963885234-43b246e5",
+    "request_time": "2026-07-02 09:14:45",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 6.026,
+    "status": "Success"
+  },
+  {
+    "call_number": 12,
+    "thread_id": "1782963891765-1c566479",
+    "request_time": "2026-07-02 09:14:51",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 8.149,
+    "status": "Success"
+  },
+  {
+    "call_number": 13,
+    "thread_id": "1782963900425-63c3ba75",
+    "request_time": "2026-07-02 09:15:00",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 6.329,
+    "status": "Success"
+  },
+  {
+    "call_number": 14,
+    "thread_id": "1782963907265-87c2c10e",
+    "request_time": "2026-07-02 09:15:07",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco una selezione di divani (e varianti/materiali) in pelle trovati a catalogo.",
+    "response_time": 13.48,
+    "status": "Success"
+  },
+  {
+    "call_number": 15,
+    "thread_id": "1782963921250-72e609c8",
+    "request_time": "2026-07-02 09:15:21",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile in catalogo.",
+    "response_time": 16.722,
+    "status": "Success"
+  },
+  {
+    "call_number": 16,
+    "thread_id": "1782963938479-2c147f5d",
+    "request_time": "2026-07-02 09:15:38",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 17.668,
+    "status": "Success"
+  },
+  {
+    "call_number": 17,
+    "thread_id": "1782963956652-83466c48",
+    "request_time": "2026-07-02 09:15:56",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 7.028,
+    "status": "Success"
+  },
+  {
+    "call_number": 18,
+    "thread_id": "1782963964187-6695c467",
+    "request_time": "2026-07-02 09:16:04",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 15.518,
+    "status": "Success"
+  },
+  {
+    "call_number": 19,
+    "thread_id": "1782963980217-b91b5a14",
+    "request_time": "2026-07-02 09:16:20",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 15.587,
+    "status": "Success"
+  },
+  {
+    "call_number": 20,
+    "thread_id": "1782963996314-68c12c27",
+    "request_time": "2026-07-02 09:16:36",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 10.671,
+    "status": "Success"
+  },
+  {
+    "call_number": 21,
+    "thread_id": "1782964007506-94345a8b",
+    "request_time": "2026-07-02 09:16:47",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo: Skin Sofa.",
+    "response_time": 10.627,
+    "status": "Success"
+  },
+  {
+    "call_number": 22,
+    "thread_id": "1782964018643-bac9048f",
+    "request_time": "2026-07-02 09:16:58",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco una selezione di divani in pelle disponibili nel catalogo.",
+    "response_time": 7.134,
+    "status": "Success"
+  },
+  {
+    "call_number": 23,
+    "thread_id": "1782964026281-00f2007f",
+    "request_time": "2026-07-02 09:17:06",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 15.087,
+    "status": "Success"
+  },
+  {
+    "call_number": 24,
+    "thread_id": "1782964041880-3f20ac88",
+    "request_time": "2026-07-02 09:17:21",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 7.754,
+    "status": "Success"
+  },
+  {
+    "call_number": 25,
+    "thread_id": "1782964050140-f72c64bb",
+    "request_time": "2026-07-02 09:17:30",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 7.975,
+    "status": "Success"
+  },
+  {
+    "call_number": 26,
+    "thread_id": "1782964058624-364308fd",
+    "request_time": "2026-07-02 09:17:38",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo: Skin Sofa.",
+    "response_time": 14.048,
+    "status": "Success"
+  },
+  {
+    "call_number": 27,
+    "thread_id": "1782964073188-7b335d16",
+    "request_time": "2026-07-02 09:17:53",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 7.205,
+    "status": "Success"
+  },
+  {
+    "call_number": 28,
+    "thread_id": "1782964080904-403d8c66",
+    "request_time": "2026-07-02 09:18:00",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 7.273,
+    "status": "Success"
+  },
+  {
+    "call_number": 29,
+    "thread_id": "1782964088683-c397d578",
+    "request_time": "2026-07-02 09:18:08",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 8.746,
+    "status": "Success"
+  },
+  {
+    "call_number": 30,
+    "thread_id": "1782964097940-31b78c8e",
+    "request_time": "2026-07-02 09:18:17",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo: Skin Sofa.",
+    "response_time": 7.952,
+    "status": "Success"
+  },
+  {
+    "call_number": 31,
+    "thread_id": "1782964106437-baea11d5",
+    "request_time": "2026-07-02 09:18:26",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 7.486,
+    "status": "Success"
+  },
+  {
+    "call_number": 32,
+    "thread_id": "1782964114435-e96b43fb",
+    "request_time": "2026-07-02 09:18:34",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco una selezione di divani (e contenuti correlati) in pelle dal catalogo.",
+    "response_time": 9.993,
+    "status": "Success"
+  },
+  {
+    "call_number": 33,
+    "thread_id": "1782964124935-1e86e52e",
+    "request_time": "2026-07-02 09:18:44",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 8.202,
+    "status": "Success"
+  },
+  {
+    "call_number": 34,
+    "thread_id": "1782964133648-2591db9f",
+    "request_time": "2026-07-02 09:18:53",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco una selezione di divani in pelle disponibili nel catalogo.",
+    "response_time": 8.692,
+    "status": "Success"
+  },
+  {
+    "call_number": 35,
+    "thread_id": "1782964142846-376aa1fe",
+    "request_time": "2026-07-02 09:19:02",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 8.568,
+    "status": "Success"
+  },
+  {
+    "call_number": 36,
+    "thread_id": "1782964151923-58ee24f0",
+    "request_time": "2026-07-02 09:19:11",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 8.65,
+    "status": "Success"
+  },
+  {
+    "call_number": 37,
+    "thread_id": "1782964161081-66adb469",
+    "request_time": "2026-07-02 09:19:21",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile a catalogo.",
+    "response_time": 9.387,
+    "status": "Success"
+  },
+  {
+    "call_number": 38,
+    "thread_id": "1782964170976-a3a2e35e",
+    "request_time": "2026-07-02 09:19:30",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 29.146,
+    "status": "Success"
+  },
+  {
+    "call_number": 39,
+    "thread_id": "1782964200632-18f1c17e",
+    "request_time": "2026-07-02 09:20:00",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile a catalogo.",
+    "response_time": 8.031,
+    "status": "Success"
+  },
+  {
+    "call_number": 40,
+    "thread_id": "1782964209173-026e5049",
+    "request_time": "2026-07-02 09:20:09",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile a catalogo.",
+    "response_time": 9.951,
+    "status": "Success"
+  },
+  {
+    "call_number": 41,
+    "thread_id": "1782964219657-f9c0377a",
+    "request_time": "2026-07-02 09:20:19",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 6.646,
+    "status": "Success"
+  },
+  {
+    "call_number": 42,
+    "thread_id": "1782964226816-195dc752",
+    "request_time": "2026-07-02 09:20:26",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 8.187,
+    "status": "Success"
+  },
+  {
+    "call_number": 43,
+    "thread_id": "1782964235518-6ee7088c",
+    "request_time": "2026-07-02 09:20:35",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile a catalogo.",
+    "response_time": 8.119,
+    "status": "Success"
+  },
+  {
+    "call_number": 44,
+    "thread_id": "1782964244147-895c9872",
+    "request_time": "2026-07-02 09:20:44",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 6.188,
+    "status": "Success"
+  },
+  {
+    "call_number": 45,
+    "thread_id": "1782964250842-77622b3c",
+    "request_time": "2026-07-02 09:20:50",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 6.427,
+    "status": "Success"
+  },
+  {
+    "call_number": 46,
+    "thread_id": "1782964257777-585080dd",
+    "request_time": "2026-07-02 09:20:57",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile a catalogo.",
+    "response_time": 8.178,
+    "status": "Success"
+  },
+  {
+    "call_number": 47,
+    "thread_id": "1782964266465-d0ebdf60",
+    "request_time": "2026-07-02 09:21:06",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 9.281,
+    "status": "Success"
+  },
+  {
+    "call_number": 48,
+    "thread_id": "1782964276254-7f44cde4",
+    "request_time": "2026-07-02 09:21:16",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 8.274,
+    "status": "Success"
+  },
+  {
+    "call_number": 49,
+    "thread_id": "1782964285038-3ebc35a3",
+    "request_time": "2026-07-02 09:21:25",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 7.303,
+    "status": "Success"
+  },
+  {
+    "call_number": 50,
+    "thread_id": "1782964292850-ddb42c5e",
+    "request_time": "2026-07-02 09:21:32",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo: Skin Sofa.",
+    "response_time": 8.589,
+    "status": "Success"
+  },
+  {
+    "call_number": 51,
+    "thread_id": "1782964301973-a8441272",
+    "request_time": "2026-07-02 09:21:41",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 6.797,
+    "status": "Success"
+  },
+  {
+    "call_number": 52,
+    "thread_id": "1782964309283-a5ad4593",
+    "request_time": "2026-07-02 09:21:49",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 10.522,
+    "status": "Success"
+  },
+  {
+    "call_number": 53,
+    "thread_id": "1782964320316-37fc78ed",
+    "request_time": "2026-07-02 09:22:00",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle dalla collezione: Skin Sofa.",
+    "response_time": 8.003,
+    "status": "Success"
+  },
+  {
+    "call_number": 54,
+    "thread_id": "1782964328827-eaf1bedb",
+    "request_time": "2026-07-02 09:22:08",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 7.424,
+    "status": "Success"
+  },
+  {
+    "call_number": 55,
+    "thread_id": "1782964336756-c5794e9b",
+    "request_time": "2026-07-02 09:22:16",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 7.948,
+    "status": "Success"
+  },
+  {
+    "call_number": 56,
+    "thread_id": "1782964345240-6c744965",
+    "request_time": "2026-07-02 09:22:25",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 6.987,
+    "status": "Success"
+  },
+  {
+    "call_number": 57,
+    "thread_id": "1782964352744-2f31691a",
+    "request_time": "2026-07-02 09:22:32",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 6.939,
+    "status": "Success"
+  },
+  {
+    "call_number": 58,
+    "thread_id": "1782964360189-70fff099",
+    "request_time": "2026-07-02 09:22:40",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 14.785,
+    "status": "Success"
+  },
+  {
+    "call_number": 59,
+    "thread_id": "1782964375481-a97e871e",
+    "request_time": "2026-07-02 09:22:55",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 8.234,
+    "status": "Success"
+  },
+  {
+    "call_number": 60,
+    "thread_id": "1782964384223-e7581e98",
+    "request_time": "2026-07-02 09:23:04",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile a catalogo.",
+    "response_time": 9.61,
+    "status": "Success"
+  },
+  {
+    "call_number": 61,
+    "thread_id": "1782964394370-79e4c7dd",
+    "request_time": "2026-07-02 09:23:14",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 8.606,
+    "status": "Success"
+  },
+  {
+    "call_number": 62,
+    "thread_id": "1782964403486-82bb1625",
+    "request_time": "2026-07-02 09:23:23",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 7.521,
+    "status": "Success"
+  },
+  {
+    "call_number": 63,
+    "thread_id": "1782964411519-b38b9fb3",
+    "request_time": "2026-07-02 09:23:31",
+    "uid": "cs835152070641",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle dalla knowledge base.",
+    "response_time": 7.277,
+    "status": "Success"
+  },
+  {
+    "call_number": 64,
+    "thread_id": "1782964419308-88fbc7c9",
+    "request_time": "2026-07-02 09:23:39",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 10.985,
+    "status": "Success"
+  },
+  {
+    "call_number": 65,
+    "thread_id": "1782964430802-c13487f1",
+    "request_time": "2026-07-02 09:23:50",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo: Skin Sofa.",
+    "response_time": 7.286,
+    "status": "Success"
+  },
+  {
+    "call_number": 66,
+    "thread_id": "1782964438596-dc157002",
+    "request_time": "2026-07-02 09:23:58",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile da visualizzare.",
+    "response_time": 7.301,
+    "status": "Success"
+  },
+  {
+    "call_number": 67,
+    "thread_id": "1782964446405-d2df8def",
+    "request_time": "2026-07-02 09:24:06",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 7.156,
+    "status": "Success"
+  },
+  {
+    "call_number": 68,
+    "thread_id": "1782964454070-48647a82",
+    "request_time": "2026-07-02 09:24:14",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile in archivio.",
+    "response_time": 7.472,
+    "status": "Success"
+  },
+  {
+    "call_number": 69,
+    "thread_id": "1782964462052-74044ada",
+    "request_time": "2026-07-02 09:24:22",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 17.354,
+    "status": "Success"
+  },
+  {
+    "call_number": 70,
+    "thread_id": "1782964479915-f732ec13",
+    "request_time": "2026-07-02 09:24:39",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 7.489,
+    "status": "Success"
+  },
+  {
+    "call_number": 71,
+    "thread_id": "1782964487977-10c4e48a",
+    "request_time": "2026-07-02 09:24:47",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 12.17,
+    "status": "Success"
+  },
+  {
+    "call_number": 72,
+    "thread_id": "1782964500661-9e769919",
+    "request_time": "2026-07-02 09:25:00",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle dalla collezione: Skin Sofa.",
+    "response_time": 16.219,
+    "status": "Success"
+  },
+  {
+    "call_number": 73,
+    "thread_id": "1782964517391-928d9609",
+    "request_time": "2026-07-02 09:25:17",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 7.326,
+    "status": "Success"
+  },
+  {
+    "call_number": 74,
+    "thread_id": "1782964525222-f36bb754",
+    "request_time": "2026-07-02 09:25:25",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile a catalogo.",
+    "response_time": 9.096,
+    "status": "Success"
+  },
+  {
+    "call_number": 75,
+    "thread_id": "1782964534825-2a0b5cb7",
+    "request_time": "2026-07-02 09:25:34",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile a catalogo.",
+    "response_time": 8.389,
+    "status": "Success"
+  },
+  {
+    "call_number": 76,
+    "thread_id": "1782964543722-76eefb8e",
+    "request_time": "2026-07-02 09:25:43",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 8.725,
+    "status": "Success"
+  },
+  {
+    "call_number": 77,
+    "thread_id": "1782964552959-3be80ccd",
+    "request_time": "2026-07-02 09:25:52",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo: Skin Sofa.",
+    "response_time": 5.827,
+    "status": "Success"
+  },
+  {
+    "call_number": 78,
+    "thread_id": "1782964559294-f50960f1",
+    "request_time": "2026-07-02 09:25:59",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco una selezione di divani in pelle (e prodotti correlati disponibili in pelle) dalla knowledge base.",
+    "response_time": 10.597,
+    "status": "Success"
+  },
+  {
+    "call_number": 79,
+    "thread_id": "1782964570397-5cfa94df",
+    "request_time": "2026-07-02 09:26:10",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 7.162,
+    "status": "Success"
+  },
+  {
+    "call_number": 80,
+    "thread_id": "1782964578064-86942fda",
+    "request_time": "2026-07-02 09:26:18",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 15.235,
+    "status": "Success"
+  },
+  {
+    "call_number": 81,
+    "thread_id": "1782964593842-a217615f",
+    "request_time": "2026-07-02 09:26:33",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile a catalogo.",
+    "response_time": 6.675,
+    "status": "Success"
+  },
+  {
+    "call_number": 82,
+    "thread_id": "1782964601027-0ca68d86",
+    "request_time": "2026-07-02 09:26:41",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle dalla collezione disponibile.",
+    "response_time": 6.478,
+    "status": "Success"
+  },
+  {
+    "call_number": 83,
+    "thread_id": "1782964608011-4a429b3d",
+    "request_time": "2026-07-02 09:26:48",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco alcuni divani in pelle disponibili nel catalogo.",
+    "response_time": 9.922,
+    "status": "Success"
+  },
+  {
+    "call_number": 84,
+    "thread_id": "1782964618442-8ec7d501",
+    "request_time": "2026-07-02 09:26:58",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile a catalogo.",
+    "response_time": 7.741,
+    "status": "Success"
+  },
+  {
+    "call_number": 85,
+    "thread_id": "1782964626691-b87b385d",
+    "request_time": "2026-07-02 09:27:06",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile in catalogo.",
+    "response_time": 9.671,
+    "status": "Success"
+  },
+  {
+    "call_number": 86,
+    "thread_id": "1782964636873-e966657c",
+    "request_time": "2026-07-02 09:27:16",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 7.805,
+    "status": "Success"
+  },
+  {
+    "call_number": 87,
+    "thread_id": "1782964645192-f2e70980",
+    "request_time": "2026-07-02 09:27:25",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile a catalogo.",
+    "response_time": 16.095,
+    "status": "Success"
+  },
+  {
+    "call_number": 88,
+    "thread_id": "1782964661795-0fe05060",
+    "request_time": "2026-07-02 09:27:41",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco una selezione di divani in pelle disponibili.",
+    "response_time": 8.085,
+    "status": "Success"
+  },
+  {
+    "call_number": 89,
+    "thread_id": "1782964670389-6b8020d5",
+    "request_time": "2026-07-02 09:27:50",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 7.796,
+    "status": "Success"
+  },
+  {
+    "call_number": 90,
+    "thread_id": "1782964678691-dcd9f2eb",
+    "request_time": "2026-07-02 09:27:58",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle dalla collezione disponibile.",
+    "response_time": 15.261,
+    "status": "Success"
+  },
+  {
+    "call_number": 91,
+    "thread_id": "1782964694505-b46cb620",
+    "request_time": "2026-07-02 09:28:14",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 16.973,
+    "status": "Success"
+  },
+  {
+    "call_number": 92,
+    "thread_id": "1782964711992-48e966d1",
+    "request_time": "2026-07-02 09:28:31",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 6.506,
+    "status": "Success"
+  },
+  {
+    "call_number": 93,
+    "thread_id": "1782964719009-87814f9c",
+    "request_time": "2026-07-02 09:28:39",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 15.435,
+    "status": "Success"
+  },
+  {
+    "call_number": 94,
+    "thread_id": "1782964734955-c0850503",
+    "request_time": "2026-07-02 09:28:54",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 11.241,
+    "status": "Success"
+  },
+  {
+    "call_number": 95,
+    "thread_id": "1782964746709-32a85f05",
+    "request_time": "2026-07-02 09:29:06",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 8.37,
+    "status": "Success"
+  },
+  {
+    "call_number": 96,
+    "thread_id": "1782964755600-0ce9e6ea",
+    "request_time": "2026-07-02 09:29:15",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo: Skin Sofa.",
+    "response_time": 7.572,
+    "status": "Success"
+  },
+  {
+    "call_number": 97,
+    "thread_id": "1782964763682-acaf7875",
+    "request_time": "2026-07-02 09:29:23",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 9.995,
+    "status": "Success"
+  },
+  {
+    "call_number": 98,
+    "thread_id": "1782964774189-fb794f67",
+    "request_time": "2026-07-02 09:29:34",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 7.974,
+    "status": "Success"
+  },
+  {
+    "call_number": 99,
+    "thread_id": "1782964782671-ba47a3b0",
+    "request_time": "2026-07-02 09:29:42",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile nel catalogo.",
+    "response_time": 7.683,
+    "status": "Success"
+  },
+  {
+    "call_number": 100,
+    "thread_id": "1782964790863-829621d5",
+    "request_time": "2026-07-02 09:29:50",
+    "uid": "cs019f08640a6e743ea1c186c99d32413f",
+    "name": "Skin Sofa",
+    "ui_message": "Ecco un divano in pelle disponibile: Skin Sofa.",
+    "response_time": 7.728,
+    "status": "Success"
+  }
+]
